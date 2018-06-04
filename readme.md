@@ -1,7 +1,5 @@
 # Letter-Counter #
 
-----------
-
 If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there  are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.  
 Write a program that takes in an integer and finds out how many letters were used  between that integer and 1     
 > NOTE: Do not count spaces or hyphens. For example, 342 (three hundred and forty-two) contains  23 letters and 115 (one hundred and fifteen) contains 20 letters. 
