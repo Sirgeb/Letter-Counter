@@ -6,7 +6,7 @@ Write a program that takes in an integer and finds out how many letters were use
 > The use of "and" when writing out  numbers is in compliance with British usage. 
 > 
 
-##Set up ##
+## Set up ##
     npm install
 
 ## Run the test ##
